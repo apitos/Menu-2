@@ -13,4 +13,13 @@
         android:text="Mango sorbet"
         android:textAppearance="?android:textAppearanceMedium"/>
 
+    <TextView
+        android:id="@+id/menu_item_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Blueberry pie"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textSize="18sp"/>
+
 </LinearLayout>
